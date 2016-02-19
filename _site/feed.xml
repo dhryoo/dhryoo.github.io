@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>dhryoo blog</title>
+    <description>개인 블로그 입니다. 
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 22 Dec 2015 10:37:35 +0900</pubDate>
-    <lastBuildDate>Tue, 22 Dec 2015 10:37:35 +0900</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://dhryoo.github.io/</link>
+    <atom:link href="http://dhryoo.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Feb 2016 09:57:43 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2016 09:57:43 +0900</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>아름다운 글</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;인식의 넓이 -&amp;gt; 개인  이냐  인류냐&lt;/h1&gt;
+
+&lt;h1 id=&quot;section-1&quot;&gt;자아의 높이 -&amp;gt; 노예냐  주인이냐&lt;/h1&gt;
+
+</description>
+        <pubDate>Wed, 23 Dec 2015 10:36:06 +0900</pubDate>
+        <link>http://dhryoo.github.io/jekyll/update/2015/12/23/before-chrismas.html</link>
+        <guid isPermaLink="true">http://dhryoo.github.io/jekyll/update/2015/12/23/before-chrismas.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>글쓰기 연습!</title>
+        <description>&lt;h1 id=&quot;write-the-code-change-the-world&quot;&gt;Write The Code, Change The World.&lt;/h1&gt;
+
+&lt;p&gt;jekyll 로 글쓰기를 해본다. 
+static 페이지 이기 때문에 빠르다.
+해킹의 염려가 없다. 
+보안이 용이하다.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 22 Dec 2015 10:36:06 +0900</pubDate>
+        <link>http://dhryoo.github.io/jekyll/update/2015/12/22/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%97%B0%EC%8A%B5-copy.html</link>
+        <guid isPermaLink="true">http://dhryoo.github.io/jekyll/update/2015/12/22/%EA%B8%80%EC%93%B0%EA%B8%B0-%EC%97%B0%EC%8A%B5-copy.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
@@ -28,8 +67,8 @@
 
 </description>
         <pubDate>Tue, 22 Dec 2015 10:36:06 +0900</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/12/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/12/22/welcome-to-jekyll.html</guid>
+        <link>http://dhryoo.github.io/jekyll/update/2015/12/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://dhryoo.github.io/jekyll/update/2015/12/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
