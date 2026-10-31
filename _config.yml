@@ -17,3 +17,6 @@ github_username:  dhryoo
 
 # Build settings
 markdown: kramdown
+
+# Solana cbBTC 앱(com.seekerbtcfi.app)의 지갑 신원 검증용 — Jekyll 은 점 폴더를 기본 제외
+include: [".well-known"]
